@@ -81,27 +81,33 @@ data.plot(kind='line')
 
 Unprocessed Data:
 
-<img width="1588" height="1590" alt="image" src="https://github.com/user-attachments/assets/31e45aea-8b94-42c5-90a4-b4a3539a3f39" />
+<img width="1350" height="261" alt="image" src="https://github.com/user-attachments/assets/cc619e78-7658-48bf-8d4c-2c1cb95b1d5a" />
+
 
 After regular differencing:
 
-<img width="1588" height="1590" alt="image" src="https://github.com/user-attachments/assets/b92c6adf-d581-46a8-8aa6-74f621c921f4" />
+<img width="1335" height="261" alt="image" src="https://github.com/user-attachments/assets/946b465a-ccf2-409f-89ef-36ee4ee292a5" />
+
 
 After seasonal adjustment:
 
-<img width="1588" height="1590" alt="image" src="https://github.com/user-attachments/assets/a45ec33b-6a47-40f6-95d6-4761b1e32296" />
+<img width="1337" height="261" alt="image" src="https://github.com/user-attachments/assets/b9592c29-8cdc-4969-96cd-36f13cef28c1" />
+
 
 After log transformation:
 
-<img width="1588" height="1590" alt="image" src="https://github.com/user-attachments/assets/239f823d-81dc-49e8-b4c6-408943dfa9da" />
+<img width="1315" height="261" alt="image" src="https://github.com/user-attachments/assets/a9f58fea-a6c6-411a-9e09-aa0ba88c4e83" />
+
 
 After log transformation and regular differencing:
 
-<img width="1588" height="1590" alt="image" src="https://github.com/user-attachments/assets/db3a386a-4a83-4670-9b3f-054589da91e6" />
+<img width="1339" height="261" alt="image" src="https://github.com/user-attachments/assets/876b91b0-fb02-4709-8627-d78ca13441f1" />
+
 
 After log transformation, regular differencing and seasonal differencing:
 
-<img width="1588" height="1590" alt="image" src="https://github.com/user-attachments/assets/6d82821b-00f1-4721-9451-39767e11f664" />
+<img width="1588" height="308" alt="image" src="https://github.com/user-attachments/assets/1bd974f4-9e18-4e51-afb9-bbe5ce664240" />
+
 
 Overall view:
 
